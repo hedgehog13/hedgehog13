@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hedgehog13
-- 👀 I’m interested in javascript and everything around
+- 👀 I’m interested in javascript and beyond (angular, nodejs)
 - 🌱 I’m currently learning javascript, nodejs
 - 💞️ I’m looking to collaborate on angular based projects
 - 📫 How to reach me here:)
