@@ -2,7 +2,7 @@
 - 👀 I’m interested in javascript and beyond (angular, nodejs)
 - 🌱 I’m currently learning javascript, nodejs
 - 💞️ I’m looking to collaborate on angular based projects
-- 📫 How to reach me here:)
+- 📫 ira.varshavsky@gmail.com :)
 
 <!---
 hedgehog13/hedgehog13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
