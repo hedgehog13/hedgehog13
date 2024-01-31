@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hedgehog13
 - 👀 I’m interested in javascript and beyond (angular, nodejs)
-- 🌱 I’m currently learning javascript, nodejs
+- 🌱 I’m currently learning javascript, nodejs, asp.net, react.js
 - 💞️ I’m looking to collaborate on angular based projects
 - 📫 ira.varshavsky@gmail.com :)
 
